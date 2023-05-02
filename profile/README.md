@@ -1,4 +1,4 @@
-## Hi there 👋
+## Experimental research group in the U of M EECS department. Our focus is on trapping single Ytterbium atoms in optical tweezer arrays (tightly focused lasers), and manipulating them to gain information on entanglement between atoms as well as performing quantum simulation. We also are looking into the effects of coupling these atoms with nanophotonics.
 
 <!--
 
